@@ -1,5 +1,5 @@
 {
-  "name": "foodApp",
+  "name": "downloader",
   "version": "1.0.0",
   "description": "this is food app",
   "main": "index.js",
@@ -22,7 +22,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/romitsutariya/foodapp.git"
+    "url": "https://github.com/romitsutariya/downloader.git"
   },
   "devDependencies": {
     "nodemon": "^1.19.1"
