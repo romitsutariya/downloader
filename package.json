@@ -13,7 +13,7 @@
   "dependencies": {
     "body-parser": "^1.18.3",
     "cors": "^2.8.5",
-    "express": "^4.16.4",
+    "express": "^4.17.1",
     "mongodb": "^3.1.10",
     "node-telegram-bot-api": "^0.30.0",
     "package.json": "^2.0.1"
@@ -24,5 +24,8 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/romitsutariya/foodapp.git"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.1"
   }
 }
